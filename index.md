@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Yousef.
 
-### Full-Stack Developer · Open Source Enthusiast · Builder
+### Full-Stack Developer·Open Source Enthusiast·Builder
 
 > I turn ideas into clean, interactive, and useful digital experiences.
 
